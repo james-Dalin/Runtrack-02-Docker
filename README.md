@@ -14,7 +14,6 @@ Exercice pratique de prise en main de Docker : récupérer une image, lancer un 
 
 La première chose à faire avant toute manipulation Docker est de vérifier que le moteur est bien installé et opérationnel.
 ```
-
 docker --version (docker -v également)
 ```
 
